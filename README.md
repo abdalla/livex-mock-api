@@ -1,11 +1,11 @@
 # livex-mock-api
 For docker users only.
 
-#RUN
+# RUN
 ```
 sh ./run.sh
 ```
 
-#Routes
+# Routes
 http://localhost:3010/
 
