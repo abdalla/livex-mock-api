@@ -1,0 +1,1 @@
+docker run --rm -v $(pwd):/project -p 3010:3000 metal3d/json-server --watch db.json -d
